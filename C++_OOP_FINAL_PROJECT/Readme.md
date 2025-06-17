@@ -1,6 +1,5 @@
-U============================================
-SIMPLE GRAPH REPRESENTATION PROJECT – README
-============================================
+
+## SIMPLE GRAPH REPRESENTATION PROJECT – README
 
 Project Title: Simple Graph Representation using C++
 
@@ -75,10 +74,3 @@ Screenshots showing the following program behaviors have been manually attached 
 4. Removing a Vertex
 
 ---
-
-COMPLETION CHECKLIST
-
-Task selected and implemented individually
-README file created explaining the task and solution
-Code fully annotated with comments
-Program works correctly with multiple test inputs
