@@ -1,4 +1,4 @@
-============================================
+U============================================
 SIMPLE GRAPH REPRESENTATION PROJECT – README
 ============================================
 
@@ -45,12 +45,12 @@ All code lines include comments explaining what they do to help other beginners 
 
 ## PROJECT FEATURES
 
-✔ Supports both directed and undirected graphs
-✔ Menu-driven interface
-✔ Input-based graph construction (no hardcoded values)
-✔ Beginner-friendly code (no advanced OOP, no modern C++ features)
-✔ Clean output formatting using simple console printing
-✔ Easily extendable for future enhancements (like deleting edges)
+- Supports both directed and undirected graphs
+- Menu-driven interface
+- Input-based graph construction (no hardcoded values)
+- Beginner-friendly code (no advanced OOP, no modern C++ features)
+- Clean output formatting using simple console printing
+- Easily extendable for future enhancements (like deleting edges)
 
 ---
 
