@@ -2,8 +2,6 @@
 SIMPLE GRAPH REPRESENTATION PROJECT – README
 ============================================
 
-Student Name: \[Your Full Name
-Student ID: \[Your Student ID]
 Project Title: Simple Graph Representation using C++
 
 ---
